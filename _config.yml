@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ketaki Joshi"
   avatar           : "ketakiprofile.jpeg"
-  bio              : "PhD student, Systems and Architecture Lab, Yale"
+  bio              : "PhD student, Systems and Architecture Lab, Computer Science Department, Yale University"
   location         : "New Haven"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -187,6 +190,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+    
 
 
 # Defaults
@@ -244,7 +248,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+    #_research
+      - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
