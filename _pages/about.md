@@ -12,7 +12,7 @@ I am a second year Ph.D student in the [Yale Systems and Architecture group](htt
 
 My primary research interests are Operating Systems, Formal Methods and Computer Architecture.
 
-Before coming to Yale, I was a part of the Compiler optimization group at NVIDIA. My work had been on working on the compiler backend support for Turing architecture which was released in 2018.
+Before coming to Yale, I was a part of the Compiler Optimization group at NVIDIA. My work had been on working on the compiler backend support for Turing architecture which was released in 2018.
 
 I wrote my undergraduate thesis at the [GCC Resource Center](http://www.cse.iitb.ac.in/grc/) at [IIT Bombay](http://www.iitb.ac.in/). Here, I developed a compiler optimizer generator which could generate compiler optimizers for custom analysis-transformation pairs.
 
