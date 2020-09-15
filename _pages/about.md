@@ -16,4 +16,6 @@ Before coming to Yale, I was a part of the Compiler Optimization group at NVIDIA
 
 I wrote my undergraduate thesis at the [GCC Resource Center](http://www.cse.iitb.ac.in/grc/) at [IIT Bombay](http://www.iitb.ac.in/). Here, I developed a compiler optimizer generator which could generate compiler optimizers for custom analysis-transformation pairs.
 
+- News
+
 
