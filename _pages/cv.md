@@ -9,11 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Research
+======
+The Computer Architecture stack in today's systems is ecoming more heterogenous than ever. Today's systems cater to safety-critical or real-time applications more often making high throughput, increased system utilization, reliability and security a necessity rather than a feature. Asynchnrous interfaces in form of asyncchrnous system services or micro-services make a lot of sense in this context. Hence, I am looking at formalizing the asynchronous programming interface to make it reachabble in terms of programmability and safety.
+
+The final goal of the research is to come up with a formal specification for the asychronous programming model. This will not only ease the use of asynchrony in existing architecture but also for new-age architectures that are aiming for accelerator oriented Operating System.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Yale University, USA, 2019-Present
+* B.E. in Computer Engineering, University of Pune, India , 2015
+
 
 Work experience
 ======
