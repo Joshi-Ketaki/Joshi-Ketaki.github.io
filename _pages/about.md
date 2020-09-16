@@ -19,6 +19,6 @@ I wrote my undergraduate thesis at the [GCC Resource Center](http://www.cse.iitb
 
 - News
 
-- April 2020 : Awarded travel scholarship for 2020 CRA-WP Grad Cohort for Women to be held in New Orleans, LA.
-- August 2019 : Joined Yale Computer Science Ph.D under Prof. Abhishek Bhattacharjee
+-- April 2020 : Awarded travel scholarship for 2020 CRA-WP Grad Cohort for Women to be held in New Orleans, LA.
+-- August 2019 : Joined Yale Computer Science Ph.D under Prof. Abhishek Bhattacharjee
 
