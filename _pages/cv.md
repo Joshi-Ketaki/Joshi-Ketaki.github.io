@@ -17,7 +17,7 @@ The final goal of the research is to come up with a formal specification for the
 
 Education
 ======
-* Ph.D in Computer Science, Yale University, USA, 2019-Present
+* Ph.D in Computer Science, Yale University, USA,           2019-Present
 * B.E. in Computer Engineering, University of Pune, India , 2015
 
 
