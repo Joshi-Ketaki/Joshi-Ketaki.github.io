@@ -11,9 +11,8 @@ redirect_from:
 
 Research
 ======
-The Computer Architecture stack in today's systems is ecoming more heterogenous than ever. Today's systems cater to safety-critical or real-time applications more often making high throughput, increased system utilization, reliability and security a necessity rather than a feature. Asynchnrous interfaces in form of asyncchrnous system services or micro-services make a lot of sense in this context. Hence, I am looking at formalizing the asynchronous programming interface to make it reachabble in terms of programmability and safety.
+The Computer Architecture stack in today's systems is becoming more heterogenous than ever. Today's systems cater to safety-critical or real-time applications more often making high throughput, increased system utilization, reliability and security a necessity rather than a feature. Asynchronous interfaces in form of asynchronous system services or micro-services help achieve the goal of increased system utilization and throughput. Formalizing the non-intuitive asynchronous model makes it achievable for safety-critical applications as well as eases programming complexity in any application. Hence, I am looking at formalizing the asynchronous programming interface to make it easy to reason about in terms of programmability, safety and correctness.
 
-The final goal of the research is to come up with a formal specification for the asychronous programming model. This will not only ease the use of asynchrony in existing architecture but also for new-age architectures that are aiming for accelerator oriented Operating System.
 
 Education
 ======
@@ -23,15 +22,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* INDUSTRY EXPERIENCE
+  * Nvidia Graphics Pvt. Ltd.
+    * 
   
 Technical Skills
 ======
