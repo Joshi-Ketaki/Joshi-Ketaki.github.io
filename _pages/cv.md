@@ -16,17 +16,22 @@ The Computer Architecture stack in today's systems is becoming more heterogenous
 
 Education
 ======
-* Ph.D in Computer Science, Yale University, USA,           2019-Present
-* B.E. in Computer Engineering, University of Pune, India , 2015
+* Ph.D in Computer Science, Yale University, USA,           <emphasize> 2019-Present </emphasize>
+* B.E. in Computer Engineering, University of Pune, India ,  <emphasize> 2011 - 2015  </emphasize>
 
 
 Work experience
 ======
-  * Nvidia Graphics Pvt. Ltd. , January 2017- August 2019
+### Industry Experience:
+  * NVIDIA Graphics Pvt. Ltd. ,  <emphasize> January 2017- August 2019  </emphasize>
     * Improve utilization of the newly introduced ’Uniform Register File’ in the then upcoming GPU architecture-’Turing’.
     * Added compiler backend support for the newly introduced deep learning features for Turing architecture.  Ex-posed in CUDA 10.0 and CUDA 10.1.  (MMA etc.)  -Recognized as second Subject Matter Expert.
     * Added most of the encoding support for Turing solely-Recognized as Subject Matter Expert.
     * Redesigned the framework that creates encodable form of new instructions in the compiler backend as they getreleased by architecture.  -Recognized as Subject Matter Expert
+  * Shoreline IoT  <emphasize> September 2016 - January 2017  </emphasize>
+    * Worked on the organization’s first IoT product which was supposed to monitor boiler temperatures.
+  * NVIDIA Graphics Pvt. Ltd <emphasize> June 2015 - August 2016 </emphasize>
+    * Developed  a  novel  objective  algorithm  for  Fixed  Reference  Image  Analysis  for  images  rendered  across  GPU architectures Filed ISF for patent under NVIDIA.
   
 Technical Skills
 ======
