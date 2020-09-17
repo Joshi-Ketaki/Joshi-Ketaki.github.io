@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* INDUSTRY EXPERIENCE
+INDUSTRY EXPERIENCE
   * Nvidia Graphics Pvt. Ltd.
     * 
   
