@@ -35,14 +35,16 @@ Work experience
   
 Technical Skills
 ======
-* C
-* C++
-* Python
-* Valgrind
-* Z3
-* Daphny
-* Coq
-* Latex
+## Programming :
+ C, C++, Python, MATLAB/Octave, OpenCV, NVPTX
+## Compiler frameworks:
+GCC, LLVM
+## Debugging : 
+ Valgrind
+## Formal Verification tools
+ Z3, Daphny, Coq
+## Writing:
+  Latex
 
   
 Talks
