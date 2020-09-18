@@ -17,8 +17,8 @@ Before coming to Yale, I was a part of the Compiler Optimization group at NVIDIA
 I wrote my undergraduate thesis at the [GCC Resource Center](http://www.cse.iitb.ac.in/grc/) at [IIT Bombay](http://www.iitb.ac.in/). Here, I developed a compiler optimizer generator which could generate compiler optimizers for custom analysis-transformation pairs.
 
 
-- News
+# News
 
--- April 2020 : Awarded travel scholarship for 2020 CRA-WP Grad Cohort for Women to be held in New Orleans, LA.
--- August 2019 : Joined Yale Computer Science Ph.D under Prof. Abhishek Bhattacharjee
+* April 2020 : Awarded travel scholarship for 2020 CRA-WP Grad Cohort for Women to be held in New Orleans, LA.
+* August 2019 : Joined Yale Computer Science Ph.D under Prof. Abhishek Bhattacharjee
 
