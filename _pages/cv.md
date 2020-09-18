@@ -23,14 +23,14 @@ Education
 Work experience
 ======
 ### Research Experience
-* GCC Resource Center, Indian Institute of Technology, <strong> Advised by: </strong> Prof. Uday Khedker <emphasize> May 2014 - June 2015 </emphasize>
+* GCC Resource Center, Indian Institute of Technology, <strong> Advised by: </strong> Prof. Uday Khedker, <emphasize> May 2014 - June 2015 </emphasize>
   * Worked on adding Inter procedural support from scratch in OptGen - a custom compiler optimization gen-erator for GCC - to create machine-independent optimizations based on simply the high level specificationsof the analyses.
   * Optimized the existing generator’s CFG node traversal to improve performance.
 
-* Indian Institute of Tropical Meteorology, <strong> Advised by: </strong> Dr. Narendra Karmarkar <emphasize> February 2014 - June 2014 </emphasize>
+* Indian Institute of Tropical Meteorology, <strong> Advised by: </strong> Dr. Narendra Karmarkar, <emphasize> February 2014 - June 2014 </emphasize>
   * Built  a  scalable  N-SAT  solver  for  data  extracted  from  meteorological  visualizations  to  aid  in  improving  theaccuracy of predictions.
   
-* National Center for RadiAstrophysics / University of Pune ,  <strong> Advised by: </strong> Prof. Shubhangi Tikhe <emphasize> August 2013 - December 2013 </emphasize>
+* National Center for RadiAstrophysics / University of Pune ,  <strong> Advised by: </strong> Prof. Shubhangi Tikhe, <emphasize> August 2013 - December 2013 </emphasize>
   * Presented a comparative study seminar on usage of different heterogeneous systems for pulsar de-dispersion.
   
 ### Industry Experience:
@@ -39,7 +39,7 @@ Work experience
     * Added compiler backend support for the newly introduced deep learning features for Turing architecture.  Ex-posed in CUDA 10.0 and CUDA 10.1.  (MMA etc.)  -Recognized as second Subject Matter Expert.
     * Added most of the encoding support for Turing solely-Recognized as Subject Matter Expert.
     * Redesigned the framework that creates encodable form of new instructions in the compiler backend as they getreleased by architecture.  -Recognized as Subject Matter Expert
-  * Shoreline IoT  <emphasize> September 2016 - January 2017  </emphasize>
+  * Shoreline IoT,  <emphasize> September 2016 - January 2017  </emphasize>
     * Worked on the organization’s first IoT product which was supposed to monitor boiler temperatures.
   * NVIDIA Graphics Pvt. Ltd <emphasize> June 2015 - August 2016 </emphasize>
     * Developed  a  novel  objective  algorithm  for  Fixed  Reference  Image  Analysis  for  images  rendered  across  GPU architectures Filed ISF for patent under NVIDIA.
@@ -70,8 +70,8 @@ Awards and Recognition
  
 Talks and Seminars
 ======
- * <emphasize> [TALK] </emphasize> Compiler Optimizer Generator” ACM-Women’s Student Chapter-Cummins College of Engineering forWomen, University of Pune.
- * <emphasize> [SEMINAR] </emphasize> De-dispersion of Pulsars using Heterogeneous Parallel Computing”, University of Pune
+ * <strong>[TALK]</strong> Compiler Optimizer Generator” ACM-Women’s Student Chapter-Cummins College of Engineering forWomen, University of Pune.
+ * <strong>[SEMINAR]</strong> De-dispersion of Pulsars using Heterogeneous Parallel Computing”, University of Pune
   
 Summer Schools
 ======
