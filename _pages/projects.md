@@ -21,11 +21,13 @@ Work done while at NVIDIA:
 1. Additionally, I had redesigned a framework that enables the onset of the machine code generation of new instructions once released by architecture inside the compiler backend. I was marked Subject Matter Expert for this as well.
 
 
-**Enlisted below are some of the old projects I had worked on and hence might vary in complexity.]
+Enlisted below are some of the old projects I had worked on and hence might vary in complexity.]
+=================================================
 
 
-*  *** Title:                Opt - Gen : Compiler Optimizer Generator
-   *** Institution:    Indian Institute of Technology, Bombay, India
+*  Title:                Opt - Gen : Compiler Optimizer Generator
+   ===============================================================
+   Institution:    Indian Institute of Technology, Bombay, India
    Short Description:
 
     The project aimed in automatic generation of compiler optimizers given an analysis and expected transformation.(E.g. Generate an optimizer using a modified live variable analysis for dead code elimination.)
@@ -37,11 +39,11 @@ Work done while at NVIDIA:
     *Input Specification language: Opt-Gen included providing the equations for DFA calculations to the optimizer generator in a specific format. This format was the input specification language. The scanner and parser for file written in this language were custom-written and the output of these was further used in developing the generator.
 
 
-* *** Title:            Cyclops: An objective image analysis algorithm
-  *** Institution:    Nvidia Graphics Pvt. Ltd, Pune, India
+* Title:            Cyclops: An objective image analysis algorithm
+   ===============================================================
+  Institution:    Nvidia Graphics Pvt. Ltd, Pune, India
   
   Short Description:
-   ==================
   
     Existing image analysis techniques included subjective(human intervention) analysis and also suffer the limitation of inability to compare images which are rendered on different GPU architectures(due to difference in precision).
     Cyclops allows analysis of images rendered across different GPU architectures and is completely objective.
