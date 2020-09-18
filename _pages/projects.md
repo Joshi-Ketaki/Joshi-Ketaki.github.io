@@ -27,8 +27,8 @@ Older Projects
 
  Opt - Gen : Compiler Optimizer Generator
    ===============================================================
-   <strong> Institution:Indian Institute of Technology, Bombay, India </strong>
-   Short Description:
+  <strong> Institution:Nvidia Graphics Pvt. Ltd, Pune, India </strong>   
+  Short Description:  
     The project aimed in automatic generation of compiler optimizers given an analysis and expected transformation.(E.g. Generate an optimizer using a modified live variable analysis for dead code elimination.)
     It used Data Flow Analysis-DFA.
     The existing version supported only Intra-procedural DFA and was inefficient in terms of performance.
