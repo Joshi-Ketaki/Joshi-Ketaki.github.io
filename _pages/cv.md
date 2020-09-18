@@ -22,6 +22,17 @@ Education
 
 Work experience
 ======
+### Research Experience
+* GCC Resource Center, Indian Institute of Technology, <strong> Advised by: </strong> Prof. Uday Khedker <emphasize> May 2014 - June 2015 </emphasize>
+  * Worked on adding Inter procedural support from scratch in OptGen - a custom compiler optimization gen-erator for GCC - to create machine-independent optimizations based on simply the high level specificationsof the analyses.
+  * Optimized the existing generator’s CFG node traversal to improve performance.
+
+* Indian Institute of Tropical Meteorology, <strong> Advised by: </strong> Dr. Narendra Karmarkar <emphasize> February 2014 - June 2014 </emphasize>
+  * Built  a  scalable  N-SAT  solver  for  data  extracted  from  meteorological  visualizations  to  aid  in  improving  theaccuracy of predictions.
+  
+* National Center for RadiAstrophysics / University of Pune ,  <strong> Advised by: </strong> Prof. Shubhangi Tikhe <emphasize> August 2013 - December 2013 </emphasize>
+  * Presented a comparative study seminar on usage of different heterogeneous systems for pulsar de-dispersion.
+  
 ### Industry Experience:
   * NVIDIA Graphics Pvt. Ltd. ,  <emphasize> January 2017- August 2019  </emphasize>
     * Improve utilization of the newly introduced ’Uniform Register File’ in the then upcoming GPU architecture-’Turing’.
@@ -32,18 +43,19 @@ Work experience
     * Worked on the organization’s first IoT product which was supposed to monitor boiler temperatures.
   * NVIDIA Graphics Pvt. Ltd <emphasize> June 2015 - August 2016 </emphasize>
     * Developed  a  novel  objective  algorithm  for  Fixed  Reference  Image  Analysis  for  images  rendered  across  GPU architectures Filed ISF for patent under NVIDIA.
+    
   
 Technical Skills
 ======
-## Programming :
+### Programming :
  C, C++, Python, MATLAB/Octave, OpenCV, NVPTX
-## Compiler frameworks:
+### Compiler frameworks:
 GCC, LLVM
-## Debugging : 
+### Debugging : 
  Valgrind
-## Formal Verification tools
+### Formal Verification tools
  Z3, Daphny, Coq
-## Writing:
+### Writing:
   Latex
 
   
