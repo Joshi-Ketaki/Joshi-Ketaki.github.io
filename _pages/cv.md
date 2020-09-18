@@ -58,18 +58,29 @@ GCC, LLVM
 ### Writing:
   Latex
 
-  
+
+Relevant Graduate Courses
+================
+Operating Systems - Design and Implementation, Software Analysis and Verification, Language Based Security, Computational Complexity, Natural Language Processing, Intelligent Robotics, Human factors in Computer Science
+
 Awards and Recognition
 ======
- * 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant(postponed due to COVID-19).
+ * 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant (postponed due to COVID-19).
  * Received recognition as a ’Strong Contributor’ and Subject Matter Expert in the development of the Turing compiler.
  
-Teaching
+Talks and Seminars
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * <emphasize> [TALK] </emphasize> Compiler Optimizer Generator” ACM-Women’s Student Chapter-Cummins College of Engineering forWomen, University of Pune.
+ * <emphasize> [SEMINAR] </emphasize> De-dispersion of Pulsars using Heterogeneous Parallel Computing”, University of Pune
   
-Service and leadership
+Summer Schools
 ======
-* Currently signed in to 43 different slack teams
+* HiPEAC ACACES summer school on Computer Architecture and Compilation. <emphasize> July 2018 </emphasize>
+
+Scholastic Achievements
+=======================
+* University rank holder in junior and senior years of computer engineering from over 9000 students.
+* Cummins College of Engineering Certificate of Excellence for being Department topper at graduation.
+* Persistent Systems Gold Medal for being Department topper in junior year.
+
+
