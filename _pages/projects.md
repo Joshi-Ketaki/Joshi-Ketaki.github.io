@@ -21,15 +21,14 @@ Work done while at NVIDIA:
 1. Additionally, I had redesigned a framework that enables the onset of the machine code generation of new instructions once released by architecture inside the compiler backend. I was marked Subject Matter Expert for this as well.
 
 
-Enlisted below are some of the old projects I had worked on and hence might vary in complexity.]
+Older Projects
 =================================================
 
 
-*  Title:                Opt - Gen : Compiler Optimizer Generator
+ Title: Opt - Gen : Compiler Optimizer Generator
    ===============================================================
-   Institution:    Indian Institute of Technology, Bombay, India
+   <strong> Institution:    Indian Institute of Technology, Bombay, India </strong>
    Short Description:
-
     The project aimed in automatic generation of compiler optimizers given an analysis and expected transformation.(E.g. Generate an optimizer using a modified live variable analysis for dead code elimination.)
     It used Data Flow Analysis-DFA.
     The existing version supported only Intra-procedural DFA and was inefficient in terms of performance.
@@ -39,59 +38,43 @@ Enlisted below are some of the old projects I had worked on and hence might vary
     *Input Specification language: Opt-Gen included providing the equations for DFA calculations to the optimizer generator in a specific format. This format was the input specification language. The scanner and parser for file written in this language were custom-written and the output of these was further used in developing the generator.
 
 
-* Title:            Cyclops: An objective image analysis algorithm
+Title:            Cyclops: An objective image analysis algorithm
    ===============================================================
-  Institution:    Nvidia Graphics Pvt. Ltd, Pune, India
-  
-  Short Description:
-  
+  <strong> Institution:    Nvidia Graphics Pvt. Ltd, Pune, India    </strong>   
+  Short Description:  
     Existing image analysis techniques included subjective(human intervention) analysis and also suffer the limitation of inability to compare images which are rendered on different GPU architectures(due to difference in precision).
     Cyclops allows analysis of images rendered across different GPU architectures and is completely objective.
     It uses a human visual system(HVS) compliant color space to identify corruptions region wise and for complete image.
     It saves 336 human hours/employee/year for the organization.
     Preliminary learning was also induced in Cyclops to identify run to run variations in grass/hair etc to avoid marking them as corruptions without missing actual corruptions.
-
-    Note: 
-
-    An ISF (Invention Submission Form) was filed under NVIDIA Graphics Pvt. Ltd.
-    A Paper was submitted and reviewed at Nvidia Technical Conference-2015.
+<strong>Note: * An ISF (Invention Submission Form) was filed under NVIDIA Graphics Pvt. Ltd.
+      * A Paper was submitted and reviewed at Nvidia Technical Conference-2015.</strong>
 
 
-3. Title:                 Anti-aliasing validation solution
-
-    Institution:    Nvidia Graphics Pvt. Ltd, Pune, India
-
-    Short Description:
-
-    A solution to differentiate between differently applied AA settings was developed using edge-maps.
+ Title:   Anti-aliasing validation solution
+ =================================================
+<strong>     Institution:    Nvidia Graphics Pvt. Ltd, Pune, India    </strong> 
+Short Description:
+  Developed a solution using edge-maps to differentiate between differently applied AA settings.
 
 
-4. Title:                 No reference/  Reduced reference image analysis
-
-    Institution:    Nvidia Graphics Pvt. Ltd, Pune, India
-
-    Short Description:
-
-    The project aimed at image analysis without a reference image.
-    Detection of motion blur without reference image as an expected blur separately from gaussian blur(corruption) completed.
-    Determination of sharpness of different parts of an image along with saliency map identification without a reference image was completed.
+Title:                 No reference/  Reduced reference image analysis
+===========================================================
+<strong>Institution:    Nvidia Graphics Pvt. Ltd, Pune, India </strong>
+Short Description:
+  The project aimed at image analysis without a reference image. Detection of motion blur without reference image as an expected blur separately from gaussian blur(corruption) completed. Determination of sharpness of different parts of an image along with saliency map identification without a reference image was completed.
 
 
-5. Title:                 Duplicate and missed frame identification
-
-    Institution:    Nvidia Graphics Pvt. Ltd, Pune, India
-
-    Short Description:
-
-    The solution identifies if any frame was missed or duplicated when grabbed from a stream/APIC.
+Title:                 Duplicate and missed frame identification
+================================================================
+<strong> Institution:    Nvidia Graphics Pvt. Ltd, Pune, India </strong>
+Short Description:
+  The solution identifies if any frame was missed or duplicated when grabbed from a stream/APIC.
 
 
-6. Title:                Parallelization of Scientific Software 
-
-    Institution:    Indian Institute of Tropical Meterology, Pune, India.
-
-    Short Description:
-
-    The project aimed using data extracted from meteorological visualizations to aid in improving the accuracy of predictions using decision problem(Propositional Satisfiability(N-SAT) was used).
-    A scalable SAT clause developer and eliminator was built.
+Title:                Parallelization of Scientific Software 
+============================================================
+<strong>Institution:    Indian Institute of Tropical Meterology, Pune, India. <strong>
+Short Description:
+The project aimed using data extracted from meteorological visualizations to aid in improving the accuracy of predictions using decision problem(Propositional Satisfiability(N-SAT) was used). A scalable SAT clause developer and eliminator was built.
 
