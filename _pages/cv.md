@@ -83,4 +83,9 @@ Scholastic Achievements
 * Cummins College of Engineering Certificate of Excellence for being Department topper at graduation.
 * Persistent Systems Gold Medal for being Department topper in junior year.
 
+Co-curricular
+=============
+* Core steering committee member for Nvidia-Women in Technology, PDC Chapter.
+* Student chair, ACM-W student chapter
+* Editor- Computer Engineering Department and College Newsletter
 
