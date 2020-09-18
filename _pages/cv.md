@@ -59,12 +59,11 @@ GCC, LLVM
   Latex
 
   
-Talks
+Awards and Recognition
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+ * 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant(postponed due to COVID-19).
+ * Received recognition as a ’Strong Contributor’ and Subject Matter Expert in the development of the Turing compiler.
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
