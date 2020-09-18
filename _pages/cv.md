@@ -52,7 +52,7 @@ Technical Skills
 ### Compiler frameworks:
 GCC, LLVM
 ### Debugging : 
- Valgrind
+ gdb, MS Visual Studio debugger, Valgrind
 ### Formal Verification tools
  Z3, Daphny, Coq
 ### Writing:
