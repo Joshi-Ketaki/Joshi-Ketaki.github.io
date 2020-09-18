@@ -85,7 +85,7 @@ Scholastic Achievements
 
 Co-curricular
 =============
-* Core steering committee member for Nvidia-Women in Technology, PDC Chapter.
-* Student chair, ACM-W student chapter
-* Editor- Computer Engineering Department and College Newsletter
+* Core steering committee member for Nvidia-Women in Technology, PDC Chapter, <emphasize> January 2017 - August 2019 </emphasize>
+* Student chair, ACM-W student chapter, <emphasize> June 2014 - June 2015 </emphasize>
+* Editor- Computer Engineering Department and College Newsletter, <emphasize> June 2012 - June 2015 </emphasize>
 
