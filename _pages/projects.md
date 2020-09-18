@@ -25,7 +25,7 @@ Older Projects
 =================================================
 
 
- Title: Opt - Gen : Compiler Optimizer Generator
+ Opt - Gen : Compiler Optimizer Generator
    ===============================================================
    <strong> Institution:    Indian Institute of Technology, Bombay, India </strong>
    Short Description:
@@ -38,9 +38,9 @@ Older Projects
     *Input Specification language: Opt-Gen included providing the equations for DFA calculations to the optimizer generator in a specific format. This format was the input specification language. The scanner and parser for file written in this language were custom-written and the output of these was further used in developing the generator.
 
 
-Title:            Cyclops: An objective image analysis algorithm
+Cyclops: An objective image analysis algorithm
    ===============================================================
-  <strong> Institution:    Nvidia Graphics Pvt. Ltd, Pune, India    </strong>   
+  <strong> Institution:    Nvidia Graphics Pvt. Ltd, Pune, India </strong>   
   Short Description:  
     Existing image analysis techniques included subjective(human intervention) analysis and also suffer the limitation of inability to compare images which are rendered on different GPU architectures(due to difference in precision).
     Cyclops allows analysis of images rendered across different GPU architectures and is completely objective.
@@ -50,31 +50,28 @@ Title:            Cyclops: An objective image analysis algorithm
 <strong>Note: * An ISF (Invention Submission Form) was filed under NVIDIA Graphics Pvt. Ltd.
       * A Paper was submitted and reviewed at Nvidia Technical Conference-2015.</strong>
 
-
- Title:   Anti-aliasing validation solution
+Anti-aliasing validation solution
  =================================================
-<strong>     Institution:    Nvidia Graphics Pvt. Ltd, Pune, India    </strong> 
+<strong>     Institution:    Nvidia Graphics Pvt. Ltd, Pune, India </strong> 
 Short Description:
   Developed a solution using edge-maps to differentiate between differently applied AA settings.
 
-
-Title:                 No reference/  Reduced reference image analysis
+ No reference/  Reduced reference image analysis
 ===========================================================
 <strong>Institution:    Nvidia Graphics Pvt. Ltd, Pune, India </strong>
 Short Description:
   The project aimed at image analysis without a reference image. Detection of motion blur without reference image as an expected blur separately from gaussian blur(corruption) completed. Determination of sharpness of different parts of an image along with saliency map identification without a reference image was completed.
 
-
-Title:                 Duplicate and missed frame identification
+Duplicate and missed frame identification
 ================================================================
 <strong> Institution:    Nvidia Graphics Pvt. Ltd, Pune, India </strong>
 Short Description:
   The solution identifies if any frame was missed or duplicated when grabbed from a stream/APIC.
 
 
-Title:                Parallelization of Scientific Software 
+Parallelization of Scientific Software 
 ============================================================
-<strong>Institution:    Indian Institute of Tropical Meterology, Pune, India. <strong>
+<strong>Institution:    Indian Institute of Tropical Meterology, Pune, India <strong>
 Short Description:
 The project aimed using data extracted from meteorological visualizations to aid in improving the accuracy of predictions using decision problem(Propositional Satisfiability(N-SAT) was used). A scalable SAT clause developer and eliminator was built.
 
