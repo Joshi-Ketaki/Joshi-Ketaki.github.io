@@ -36,7 +36,7 @@ Work experience
 ### Industry Experience:
   * NVIDIA Graphics Pvt. Ltd. ,  <emphasize> January 2017- August 2019  </emphasize>
     * Improve utilization of the newly introduced ’Uniform Register File’ in the then upcoming GPU architecture-’Turing’.
-    * Added compiler backend support for the newly introduced deep learning features for Turing architecture.  Ex-posed in CUDA 10.0 and CUDA 10.1.  (MMA etc.)  -Recognized as second Subject Matter Expert.
+    * Added compiler backend support for the newly introduced deep learning features for Turing architecture.  Exposed in CUDA 10.0 and CUDA 10.1.  (MMA etc.)  -Recognized as second Subject Matter Expert.
     * Added most of the encoding support for Turing solely-Recognized as Subject Matter Expert.
     * Redesigned the framework that creates encodable form of new instructions in the compiler backend as they getreleased by architecture.  -Recognized as Subject Matter Expert
   * Shoreline IoT,  <emphasize> September 2016 - January 2017  </emphasize>
