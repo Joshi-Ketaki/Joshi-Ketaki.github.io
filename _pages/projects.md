@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-Research at Yale:
+Research at Yale: THIS is AWESOME
 ==================
 
 **Formalizing Asynchronous Programming Model: In progress
