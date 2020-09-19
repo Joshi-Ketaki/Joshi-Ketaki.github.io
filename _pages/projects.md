@@ -7,7 +7,7 @@ author_profile: true
 Research at Yale:
 ==================
 
-**Formalizing Asynchronous Programming Model: In progress
+** Formalizing Asynchronous Programming Model: In progress
 
 1. Primarily focussing on identifying guarantees that a formal specification for the asynchronous programming model should provide.
 1. Specifically working on identifying the correctness condition for asynchronous operations at the moment.
