@@ -1,4 +1,4 @@
-Research at Yale:
+Research at Yale: cool!!!!
 ==================
 
 **Formalizing Asynchronous Programming Model: In progress
