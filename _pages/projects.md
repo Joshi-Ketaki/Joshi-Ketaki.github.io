@@ -1,10 +1,15 @@
 
 ---
-permalink: /projects/
+layout: archive
 title: ""
-excerpt: "Projects"
+permalink: /projects/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 
 Research at Yale:
 ==================
