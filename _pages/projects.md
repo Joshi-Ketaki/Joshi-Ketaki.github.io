@@ -18,7 +18,7 @@ Research at Yale:
 Work done while at NVIDIA:
 ======================
 <strong>
-[Certain projects cannot be enlisted in detail because of the NDA act of Nvidia.</strong>
+[Certain projects cannot be enlisted in detail because of the NDA act of Nvidia].</strong>
 
 1. I had added MMA support in the compiler frontend as well for Ampere.
 1. My most recent work prior to that (2017-) had been on adding  functional and performance support in the compiler backend for the newly added perf-critical deep learning features that accelerated deep learning computations in Turing. These were MMAs exposed in CUDA 10.0 and CUDA 10.1.
