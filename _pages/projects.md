@@ -51,7 +51,7 @@ Older Projects
     It uses a human visual system(HVS) compliant color space to identify corruptions region wise and for complete image.
     It saves 336 human hours/employee/year for the organization.
     Preliminary learning was also induced in Cyclops to identify run to run variations in grass/hair etc to avoid marking them as corruptions without missing actual corruptions.
-<strong>Note: </strong>
+#### <strong>Note: </strong>
       * An ISF (Invention Submission Form) was filed under NVIDIA Graphics Pvt. Ltd.
       * A Paper was submitted and reviewed at Nvidia Technical Conference-2015.
 
