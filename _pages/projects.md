@@ -30,7 +30,7 @@ Work done while at NVIDIA:
 Older Projects
 =================================================
 
- ## Opt - Gen : Compiler Optimizer Generator
+## Opt - Gen : Compiler Optimizer Generator
   <strong> Institution : Indian Institute of Technology, Bombay, India </strong>   
   Short Description:  
     The project aimed in automatic generation of compiler optimizers given an analysis and expected transformation.(E.g. Generate an optimizer using a modified live variable analysis for dead code elimination.)
@@ -59,7 +59,7 @@ Older Projects
   Short Description:  
   Developed a solution using edge-maps to differentiate between differently applied AA settings.
 
- ## No reference/  Reduced reference image analysis
+## No reference/  Reduced reference image analysis
 
   <strong> Institution : Nvidia Graphics Pvt. Ltd, Pune, India </strong>   
   Short Description:
