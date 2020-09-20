@@ -61,7 +61,7 @@ GCC, LLVM
 
 Relevant Graduate Courses
 ================
-Operating Systems - Design and Implementation, Software Analysis and Verification, Language Based Security, Computational Complexity, Natural Language Processing, Intelligent Robotics, Human factors in Computer Science
+Operating Systems - Design and Implementation, Software Analysis and Verification, Language Based Security, Computational Complexity, Natural Language Processing, Intelligent Robotics, Human Factors in Computer Systems: Design, Evaluation, and Presentation
 
 Awards and Recognition
 ======
