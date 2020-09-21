@@ -33,8 +33,7 @@ Older Projects
 ## Opt - Gen : Compiler Optimizer Generator
   <strong> Institution : Indian Institute of Technology, Bombay, India </strong>   
   Short Description:  
-    The project aimed in automatic generation of compiler optimizers given an analysis and expected transformation.(E.g. Generate an optimizer using a modified live variable analysis for dead code elimination.)
-    It used Data Flow Analysis-DFA.
+    The project aimed in automatic generation of compiler optimizers given the local and global equations for Data Flow Analysis (DFA) and expected transformation.(E.g. Generate an optimizer using a modified live variable analysis for dead code elimination.)
     The existing version supported only Intra-procedural DFA and was inefficient in terms of performance.
     The developed solution improved the performance for Intra-procedural DFA by using an optimized method for the calculation method involved in DFA.
     Also, the developed solution provided support for Inter-procedural DFA entirely from scratch.
