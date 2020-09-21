@@ -61,7 +61,7 @@ GCC, LLVM
 
 Relevant Graduate Courses
 ================
-Operating Systems - Design and Implementation, Software Analysis and Verification, Language Based Security, Computational Complexity, Natural Language Processing, Intelligent Robotics, Human Factors in Computer Systems: Design, Evaluation, and Presentation
+Yale CPSC 522: Operating Systems - Design and Implementation, Yale CPSC 554: Software Analysis and Verification, Yale CPSC 528 : Language Based Security, Yale CPSC 568 : Computational Complexity, Yale CPSC 577 : Natural Language Processing, Yale CPSC 572 : Intelligent Robotics, Yale CPSC 626 : Human Factors in Computer Systems: Design, Evaluation, and Presentation
 
 Awards and Recognition
 ======
