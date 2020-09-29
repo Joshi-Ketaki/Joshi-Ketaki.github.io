@@ -10,7 +10,7 @@ redirect_from:
 
 About me:
 ======
-I am a second year Ph.D student in the [Yale Systems and Architecture group](https://ysarch.csl.yale.edu/). My advisor is [Prof. Abhishek Bhattacherjee](http://www.cs.yale.edu/homes/abhishek/). I am co-advised by [Prof. Zhong Shao](http://www.cs.yale.edu/homes/shao/) and [Prof. Anurag Khandelwal](http://anuragkhandelwal.com/). 
+I am a second year Ph.D student in the [Yale Systems and Architecture group](https://ysarch.csl.yale.edu/). My advisor is [Prof. Abhishek Bhattacherjee](http://www.cs.yale.edu/homes/abhishek/).
 
 Research:
 =========
