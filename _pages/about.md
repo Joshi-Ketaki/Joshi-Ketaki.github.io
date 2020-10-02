@@ -24,7 +24,8 @@ I wrote my undergraduate thesis at the [GCC Resource Center](http://www.cse.iitb
 
 News:
 =======
+1. October 2020 : Selected to serve on the board of [Women in Sciences at Yale (WISAY)](https://wisay.sites.yale.edu/).
 1. April 2020 : Awarded travel scholarship for 2020 CRA-WP Grad Cohort for Women to be held in New Orleans, LA.
-1. August 2019 : Joined Yale Computer Science Ph.D under Prof. Abhishek Bhattacharjee
+1. August 2019 : Joined Yale Computer Science Ph.D under Prof. Abhishek Bhattacharjee.
 
 
