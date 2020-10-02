@@ -43,8 +43,26 @@ Work experience
     * Worked on the organization’s first IoT product which was supposed to monitor boiler temperatures.
   * NVIDIA Graphics Pvt. Ltd <emphasize> June 2015 - August 2016 </emphasize>
     * Developed  a  novel  objective  algorithm  for  Fixed  Reference  Image  Analysis  for  images  rendered  across  GPU architectures Filed ISF for patent under NVIDIA.
-    
-  
+ 
+Service
+=============
+* Board member - Women in Sciences at Yale , Yale University, USA <emphasize> September 2020 - present </emphasize>
+* Mentor to undergrad (sophomore) Computer Science student , Yale University, USA <emphasize> October 2020 - present </emphasize>
+* Core steering committee member for Nvidia-Women in Technology, PDC Chapter, <emphasize> January 2017 - August 2019 </emphasize>
+* Student chair, ACM-W student chapter, <emphasize> June 2014 - June 2015 </emphasize>
+* Editor- Computer Engineering Department and College Newsletter, <emphasize> June 2012 - June 2015 </emphasize>
+
+Awards and Recognition
+============
+ * 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant (postponed due to COVID-19).
+ * Received recognition as a ’Strong Contributor’ and Subject Matter Expert in the development of the Turing compiler.  
+ 
+Scholastic Achievements
+=======================
+* University rank holder in junior and senior years of computer engineering from over 9000 students.
+* Cummins College of Engineering Certificate of Excellence for being Department topper at graduation.
+* Persistent Systems Gold Medal for being Department topper in junior year.
+
 Technical Skills
 ======
 ### Programming :
@@ -58,15 +76,9 @@ GCC, LLVM
 ### Writing:
   Latex
 
-
 Relevant Graduate Courses
 ================
 Yale CPSC 522: Operating Systems - Design and Implementation, Yale CPSC 554: Software Analysis and Verification, Yale CPSC 528 : Language Based Security, Yale CPSC 568 : Computational Complexity, Yale CPSC 577 : Natural Language Processing, Yale CPSC 572 : Intelligent Robotics, Yale CPSC 626 : Human Factors in Computer Systems: Design, Evaluation, and Presentation
-
-Awards and Recognition
-======
- * 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant (postponed due to COVID-19).
- * Received recognition as a ’Strong Contributor’ and Subject Matter Expert in the development of the Turing compiler.
  
 Talks and Seminars
 ======
@@ -77,15 +89,11 @@ Summer Schools
 ======
 * HiPEAC ACACES summer school on Computer Architecture and Compilation. <emphasize> July 2018 </emphasize>
 
-Scholastic Achievements
-=======================
-* University rank holder in junior and senior years of computer engineering from over 9000 students.
-* Cummins College of Engineering Certificate of Excellence for being Department topper at graduation.
-* Persistent Systems Gold Medal for being Department topper in junior year.
+Fun Facts
+========
+* Oil Pastel painting
+* Hiking
 
-Co-curricular
-=============
-* Core steering committee member for Nvidia-Women in Technology, PDC Chapter, <emphasize> January 2017 - August 2019 </emphasize>
-* Student chair, ACM-W student chapter, <emphasize> June 2014 - June 2015 </emphasize>
-* Editor- Computer Engineering Department and College Newsletter, <emphasize> June 2012 - June 2015 </emphasize>
+
+
 
