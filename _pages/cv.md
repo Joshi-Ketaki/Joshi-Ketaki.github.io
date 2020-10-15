@@ -54,7 +54,8 @@ Service
 
 Awards and Recognition
 ============
- * 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant (postponed due to COVID-19).
+ * Received 2020 ACM Computing Research Association (CRA-WP) Conference Travel Grant (postponed due to COVID-19).
+ * Received MICRO 2020 Conference Grant
  * Received recognition as a ’Strong Contributor’ and Subject Matter Expert in the development of the Turing compiler.  
  
 Scholastic Achievements
