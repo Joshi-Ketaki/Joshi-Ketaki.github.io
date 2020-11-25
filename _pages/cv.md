@@ -46,6 +46,7 @@ Work experience
  
 Service
 =============
+* Vitrual panel member for Yale CS Incoming PhD students forum , Yale University, USA <emphasize> November 2020 </emphasize>
 * Board member - Women in Sciences at Yale , Yale University, USA <emphasize> September 2020 - present </emphasize>
 * Mentor to undergrad (sophomore) Computer Science student , Yale University, USA <emphasize> October 2020 - present </emphasize>
 * Core steering committee member for Nvidia-Women in Technology, PDC Chapter, <emphasize> January 2017 - August 2019 </emphasize>
