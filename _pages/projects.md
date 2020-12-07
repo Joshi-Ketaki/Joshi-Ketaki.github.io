@@ -16,7 +16,7 @@ The usecase for this work is Asynchronous system services for GPUs. Providing as
 1. Working on identifying opportunities and performance benefits for reordering independent asynchronous and synchronous system calls across accelerators.
 
 ## Standalone Control Plane Abstractions for Accelerators
-Motivating the need for GPUs as standalone resources in disaggregated systems and how asynchrnous system services will benefit direct accelerator-accelerator communication without going through the cPU.
+Motivating the need for GPUs as standalone resources in disaggregated systems and how asynchrnous system services will benefit direct accelerator-accelerator communication without going through the CPU.
 
 Projects at Yale:
 ======================
