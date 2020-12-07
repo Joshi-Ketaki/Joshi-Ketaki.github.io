@@ -6,16 +6,15 @@ author_profile: true
 ---
 Research at Yale:
 ==================
-## Asynchronous System Services for Accelerators (GPUs) : In progress
-## Formalizing Asynchronous Programming Model: In progress
+## Asynchronous System Services for GPUs and Formalizing Asynchronous Programming Model: In progress
 
-The usecase for this work is Asynchronous system services for GPUs. Providing asynchronous support is as it is non-intuitive. With the complex GPU programming model, that is emphasized further. However GPUs will benefit from these system service in lieu of system utilization and operation latency reduction.
+The usecase for this work is Asynchronous system services for GPUs. Providing asynchronous support is as it is non-intuitive. With the complex GPU programming model, that is emphasized further. However GPUs will benefit from these direct access system service i.e. without going through a beefy CPU. The benefits will be increased system utilization byoverlapping operation latency with useful work and hence, improving performance and throughput. Asynchrony is the way to achieve these benefits.
 1. Primarily focussing on identifying guarantees that a formal specification for the asynchronous programming model should provide.
-1. Specifically working on identifying the correctness condition for asynchronous operations at the moment.
-1. Also identifying the changes GPU-CPU programming model would require in wake of providing asynchronous system calls for accelerators.
-1. Working on identifying opportunities and performance benefits for reordering independent asynchronous and synchronous system calls across accelerators.
+1. Specifically working on identifying the correctness condition for asynchronous operations at the moment on a GPU.
+1. Also identifying the changes GPU-CPU programming model would require in wake of providing asynchronous system calls for GPUs.
+1. Working on identifying opportunities and performance benefits for reordering independent asynchronous and synchronous system calls across GPUs.
 
-## Standalone Control Plane Abstractions for Accelerators
+## Standalone Control Plane Abstractions for GPUs
 Motivating the need for GPUs as standalone resources in disaggregated systems and how asynchrnous system services will benefit direct accelerator-accelerator communication without going through the CPU.
 
 Projects at Yale:
