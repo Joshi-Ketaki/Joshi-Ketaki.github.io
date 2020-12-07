@@ -6,18 +6,23 @@ author_profile: true
 ---
 Research at Yale:
 ==================
+## Asynchronous System Services for Accelerators (GPUs) : In progress
 ## Formalizing Asynchronous Programming Model: In progress
 
+The usecase for this work is Asynchronous system services for GPUs. Providing asynchronous support is as it is non-intuitive. With the complex GPU programming model, that is emphasized further. However GPUs will benefit from these system service in lieu of system utilization and operation latency reduction.
 1. Primarily focussing on identifying guarantees that a formal specification for the asynchronous programming model should provide.
 1. Specifically working on identifying the correctness condition for asynchronous operations at the moment.
 1. Also identifying the changes GPU-CPU programming model would require in wake of providing asynchronous system calls for accelerators.
 1. Working on identifying opportunities and performance benefits for reordering independent asynchronous and synchronous system calls across accelerators.
 
+## Standalone Control Plane Abstractions for Accelerators
+Motivating the need for GPUs as standalone resources in disaggregated systems and how asynchrnous system services will benefit direct accelerator-accelerator communication without going through the cPU.
+
 Projects at Yale:
 ======================
 1. Implemented a Similarity Detection Tool to identify computational clones in cognitive brain models. 
-1. Added support for asynchronous system services in MCertiKOS - A verified layered Operating System :http://flint.cs.yale.edu/certikos/
-1. Added support for asynchrnous system IO in Theseus - A Rust based OS written to shift OS responsibilities to the compiler. : https://github.com/theseus-os/Theseus
+1. Added support for asynchronous system calls in MCertiKOS - A verified layered Operating System :http://flint.cs.yale.edu/certikos/
+1. Added support for asynchronous system IO in Theseus - A Rust based OS written to shift OS responsibilities to the compiler. : https://github.com/theseus-os/Theseus
 
 Work done while at NVIDIA:
 ======================
