@@ -15,6 +15,7 @@ Research at Yale:
 
 Projects at Yale:
 ======================
+1. Implemented a Similarity Detection Tool to identify computational clones in cognitive brain models. 
 1. Added support for asynchronous system services in MCertiKOS - A verified layered Operating System :http://flint.cs.yale.edu/certikos/
 1. Added support for asynchrnous system IO in Theseus - A Rust based OS written to shift OS responsibilities to the compiler. : https://github.com/theseus-os/Theseus
 
