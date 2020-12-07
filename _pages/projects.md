@@ -23,6 +23,8 @@ Projects at Yale:
 1. Implemented a Similarity Detection Tool to identify computational clones in cognitive brain models. 
 1. Added support for asynchronous system calls in MCertiKOS - A verified layered Operating System :http://flint.cs.yale.edu/certikos/
 1. Added support for asynchronous system IO in Theseus - A Rust based OS written to shift OS responsibilities to the compiler. : https://github.com/theseus-os/Theseus
+1. Implemented a SAT Solver based on  Davis–Putnam–Logemann–Loveland Algorithm and Clause Learning Optimization.
+1. Studied various robot system architectures and developed a predator-prey model based game based on Atlantis architecture.
 
 Work done while at NVIDIA:
 ======================
